@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Aida. I’m a second-year Ph.D. student in computer science at the University of Toronto supervised by Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/). I’m interested in Natural Language Processing, Computational Social Science, Computational Linguistics, and Machine Learning. My Ph.D. is focused on methods to better understand the relations between moral values and natural language.
+Hi! I’m Aida. I’m a second-year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. I’m interested in Natural Language Processing, Computational Social Science, Computational Linguistics, and Machine Learning. My Ph.D. is focused on moral inference from text. In my research, I develop computational methods to better understand the relations between moral values and natural language.
+
 
 
 Education
