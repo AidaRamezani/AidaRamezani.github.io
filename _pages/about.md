@@ -27,8 +27,7 @@ Research interests
 
 Publications
 ======
-* Aida Ramezani, Zining Zhu, Frank Rudzicz, Yang Xu. (to appear) An unsupervised framework for tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021.
-
+* Aida Ramezani, Zining Zhu, Frank Rudzicz, Yang Xu. An unsupervised framework for tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021.
 
 
 Awards
