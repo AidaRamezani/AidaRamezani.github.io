@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Aida. I’m a second-year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. I’m interested in Natural Language Processing, Computational Social Science, Computational Linguistics, and Machine Learning. My Ph.D. is focused on moral inference from text. In my research, I develop computational methods to better understand the relations between moral values and natural language.
-
+Hi! I’m Aida. I’m a second-year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. I’m interested in Natural Language Processing, Computational Social Science, Computational Linguistics, and Machine Learning. My Ph.D. is focused on moral change inference from text. In my research, I develop computational methods to better understand the relations between the changes in natural language and moral values.
 
 
 Education
@@ -27,7 +26,16 @@ Research interests
 
 Publications
 ======
-* Aida Ramezani, Zining Zhu, Frank Rudzicz, Yang Xu. An unsupervised framework for tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021.
+* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. (to appear) Evolution of
+moral semantics through metaphorization. In Proceedings of the 44rd Annual
+Meeting of the Cognitive Science Society.
+
+* Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., Xu, Y. (to appear) The emergence of moral foundations in child language development. In Proceedings of
+the 44rd Annual Meeting of the Cognitive Science Society.
+
+* Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for
+tracing textual sources of moral change. Findings of the Association for Com-
+putational Linguistics: EMNLP 2021.
 
 
 Awards
