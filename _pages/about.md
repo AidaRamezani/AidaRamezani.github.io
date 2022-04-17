@@ -34,8 +34,7 @@ Meeting of the Cognitive Science Society.
 the 44rd Annual Meeting of the Cognitive Science Society.
 
 * Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for
-tracing textual sources of moral change. Findings of the Association for Com-
-putational Linguistics: EMNLP 2021.
+tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021.
 
 
 Awards
