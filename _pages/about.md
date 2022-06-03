@@ -27,11 +27,11 @@ Research interests
 Publications
 ======
 * Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. (to appear) Evolution of
-moral semantics through metaphorization. In Proceedings of the 44rd Annual
+moral semantics through metaphorization. In Proceedings of the 44th Annual
 Meeting of the Cognitive Science Society.
 
 * Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., Xu, Y. (to appear) The emergence of moral foundations in child language development. In Proceedings of
-the 44rd Annual Meeting of the Cognitive Science Society.
+the 44th Annual Meeting of the Cognitive Science Society.
 
 * Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for
 tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021.
