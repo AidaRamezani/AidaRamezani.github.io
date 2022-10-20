@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Aida. I’m a second-year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. I’m interested in Natural Language Processing, Computational Social Science, Computational Linguistics, and Machine Learning. My Ph.D. is focused on moral change inference from text. In my research, I develop computational methods to better understand the relations between the changes in natural language and moral values.
+Hi! I’m Aida. I’m a third-year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. In my research, I explore how people express their values through language, how these values evolve over time and vary among communities, and how we can develop computational methods for studying human language and identifying these evolutions. I take a multidisciplinary approach in my research and combine tools from different research areas, including natural language processing,  computational social science, cognitive science, and psychology. When I'm not doing research, I'd like to learn about history, explore literature, draw, and go swimming.
 
 
 Education
@@ -20,8 +20,8 @@ Research interests
 ======
 * Natural Language Processing
 * Computational Social Science
+* Cognitive Science
 * Computational Linguistics
-* Machine Learning
 
 
 Publications
@@ -39,7 +39,7 @@ tracing textual sources of moral change. Findings of the Association for Computa
 
 Awards
 ======
-* Schwartz Reisman Institute for Technology and Society Graduate Fellowship, 2021 - 2022.
+* Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2021 - 2023.
 * Iran’s National Elites Foundation: Recognized as elite member, 2016 – 2020.
 
 
