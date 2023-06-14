@@ -26,6 +26,8 @@ Research interests
 
 Publications
 ======
+* Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf)
+
 * Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of
 moral semantics through metaphorization. In Proceedings of the 44th Annual
 Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/3qv9h3j9)
