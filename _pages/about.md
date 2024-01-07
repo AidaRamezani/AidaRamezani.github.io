@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Aida. I’m a third-year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. In my research, I explore how people express their values through language, how these values evolve over time and vary among communities, and how we can develop computational methods for studying human language and identifying these evolutions. I take a multidisciplinary approach in my research and combine tools from different research areas, including natural language processing,  computational social science, cognitive science, and psychology. When I'm not doing research, I'd like to learn about history, explore literature, draw, and go swimming.
-
+Hi! I’m Aida. I’m a 4th year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. In my research, I explore how people express their values through language, how these values evolve over time and vary among communities, and how we can develop computational methods for studying human language and identifying these evolutions. I take a multidisciplinary approach in my research and combine tools from different research areas, including natural language processing, computational social science, cognitive science, and psychology.
 
 Education
 ======
