@@ -18,11 +18,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  #- title: "Research"
-  #  url: /cv/
+  - title: "Research"
+    url: /research/
     
-  #- title: "Research"
-  #  url: /cv/
+
     
   #- title: "Guide"
   #  url: /markdown/
