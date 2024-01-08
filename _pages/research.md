@@ -7,42 +7,25 @@ redirect_from:
   - /research/
   - /research.html
 ---
-Hi! I’m Aida. I’m a 4th year Ph.D. student in computer science at the University of Toronto supervised by Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html). In my research, I explore how people express their values through language, how these values evolve over time and vary among communities, and how we can develop computational methods for studying human language and identifying these evolutions. I take a multidisciplinary approach in my research and combine tools from different research areas, including natural language processing, computational social science, cognitive science, and psychology.
+
+I am interested in developing computational tools to understand human morality through language usage analysis on a large scale. Specifically, my research explores the dynamics of moral change in society, examines how language models adapt to these changes, and investigates the evolution and acquisition of moral language. You can find descriptions of my research directions below.
 
 
-Education
+Moral Change in Society
 ======
-* Ph.D. in Computer Science, University of Toronto, September 2020 – Present
-* B.S. in Computer Engineering, Sharif University of Technology, September 2016 - July 2020
+Understanding moral change is crucial for addressing societal challenges and predicting the future dynamics in society. By leveraging large-scale computational tools, such as language models and graph neural networks, my research develops frameworks to uncover the temporal shifts in people's moral values and explores the underlying psychological factors that stimulate moral change.
 
 
-Research interests
+
+Language Models and Human Morality
 ======
-* Natural Language Processing
-* Computational Social Science
-* Cognitive Science
-* Computational Linguistics
+Language models represent one of the most exciting advancements in AI and people have started to use them in many different ways. In recent applications, these models have shown the potential to retrieve and describe human moral values. However, the extent of this knowledge is limited, as language models often struggle to capture the nuances in moral values of different cultures and historical settings, leading to misrepresentation of marginalized communities and harmful biases in language generation. My research, thus, evaluates language models' performance in various moral scenarios and aligns them to provide a more accurate depiction of cultural moral values. 
 
 
-Publications
+
+Evolution and Acquisition of Moral Language
 ======
-* Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf)
-
-* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of
-moral semantics through metaphorization. In Proceedings of the 44th Annual
-Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/3qv9h3j9)
-
-* Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., Xu, Y. The emergence of moral foundations in child language development. In Proceedings of
-the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/668700sf)
-
-* Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for
-tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021. [pdf](https://aclanthology.org/2021.findings-emnlp.105.pdf)
-
-
-Awards
-======
-* Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2021 - 2023.
-* Iran’s National Elites Foundation: Recognized as elite member, 2016 – 2020.
+I am interested in understanding the origins and the development of moral language in humans. By drawing insights from evolutionary biology, developmental psychology, and computational studies of semantic change, my research examines how humans have developed a moral lexicon over time and how infants begin to learn such lexicon to communicate their moral concerns. 
 
 
 
