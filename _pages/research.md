@@ -6,9 +6,6 @@ author_profile: true
 redirect_from:
   - /research
   - /research.html
-redirect_to:
-permalink: /research/
-title: "Research"
 ---
 
 I am interested in developing computational tools to understand human morality through language usage analysis on a large scale. Specifically, my research explores the dynamics of moral change in society, examines how language models adapt to these changes, and investigates the evolution and acquisition of moral language. You can find descriptions of my research directions below.
