@@ -25,7 +25,7 @@ Language models represent one of the most exciting advancements in AI and people
 
 Evolution and Acquisition of Moral Language
 ------
-I am interested in understanding the origins and the development of moral language in humans. By drawing insights from evolutionary biology, developmental psychology, and computational studies of semantic change, my research examines how humans have developed a moral lexicon over time and how infants begin to learn such lexicon to communicate their moral concerns. 
+I am interested in understanding the origins and the development of moral language in humans. By drawing insights from evolutionary studies, developmental psychology, and computational studies of semantic change, my research examines how humans have developed a moral lexicon over time and how infants begin to learn such lexicon to communicate their moral concerns. 
 
 
 
