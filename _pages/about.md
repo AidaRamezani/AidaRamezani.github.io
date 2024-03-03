@@ -11,7 +11,7 @@ Hi! I’m a 4th year Ph.D. student at the Department of  Computer Science, Unive
 
 My research focuses on language and morality. In particular, I study 
 * how people express their moral values through language 
-* how these values might change over time and between different cultures, 
+* how these values might change over time and between different cultures
 * how we can evaluate and develop the current natural language processing (NLP) technology with respect to changes in people’s values. 
 
 I take a multidisciplinary approach using insight from moral psychology, cognitive science, and computational social science.
