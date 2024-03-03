@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m a 4th year Ph.D. student in computer science at the University of Toronto supervised by Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html). My research focuses on language and morality. In particular, I study (1) how people express their moral values through language, (2) how these values might change over time and between different cultures, and (3) how we can evaluate and develop the current natural langauge processing (NLP) models with resepct to changes in people's moral values. To answer these questions, I take a multidisciplinary approach using insight from moral psychology, cognitive science, and computational social science.
+Hi! I’m a 4th year Ph.D. student at the Department of  Computer Science, University of Toronto. I am in the [computational linguistics group](https://www.cs.toronto.edu/compling/) and work under the supervision of Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html).
+
+My research focuses on language and morality. In particular, I study (1) how people express their moral values through language, (2) how these values might change over time and between different cultures, and (3) how we can evaluate and develop the current natural language processing (NLP) technology with respect to changes in people’s values. To answer these questions, I take a multidisciplinary approach using insight from moral psychology, cognitive science, and computational social science.
 
 
 Education
