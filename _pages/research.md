@@ -31,6 +31,10 @@ Evolution and Acquisition of Moral Language
 ------
 I am interested in understanding the origins and the development of moral language in humans. By drawing insights from evolutionary studies, developmental psychology, and computational studies of semantic change, my research examines how humans have developed a moral lexicon over time and how infants begin to learn such lexicon to communicate their moral concerns. 
 
+<img src="https://aidaramezani.github.io/files/moral_evolution.png" alt="PEW" width="450"/>
+
+<img src="https://aidaramezani.github.io/files/moral_emergence.png" alt="PEW" width="450"/>
+
 
 
 <!-- A data-driven personal website
