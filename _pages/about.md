@@ -33,13 +33,7 @@ Research interests
 
 Publications
 ======
-| ![image](files/pew.png){width=100 height=50} |  * Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).|
-
-
-| January  | $250    |
-| -------- | ------- |
-| February | $80     |
-| March    | $420    |
+| ![image](files/pew.png =100x20) |  Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference). |
 
 <!--- * Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).
 
@@ -54,6 +48,7 @@ the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholar
 tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021. [pdf](https://aclanthology.org/2021.findings-emnlp.105.pdf), [code](https://github.com/AidaRamezani/moral-source-tracing).
 
 --->
+
 Awards
 ======
 * Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2021 - 2023.
