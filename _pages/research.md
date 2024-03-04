@@ -15,7 +15,7 @@ Moral Change in Society
 ------
 Understanding moral change is crucial for addressing societal challenges and predicting the future dynamics in society. By leveraging large-scale computational tools, such as language models and graph neural networks, my research develops frameworks to uncover the temporal shifts in people's moral values and explores the underlying psychological factors that stimulate moral change.
 
-<img src="aidaramezani.github.io/files/pew.png" alt="PEW" width="250"/>
+<img src="files/pew.png" alt="PEW" width="250"/>
 
 
 Language Models and Human Morality
