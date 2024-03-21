@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Aida. I’m a 4th year Ph.D. student in computer science at the University of Toronto supervised by Professor Yang Xu. In my research, I explore how people express their values through language, how these values evolve over time and vary among communities, and how we can develop computational methods for studying human language and identifying these evolutions. I take a multidisciplinary approach in my research and combine tools from different research areas, including natural language processing, computational social science, cognitive science, and psychology.
+Hi! I’m a 4th year Ph.D. student at the Department of  Computer Science, University of Toronto. I am in the [computational linguistics group](https://www.cs.toronto.edu/compling/) and work under the supervision of Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html).
+
+My research focuses on language and morality. In particular, I study 
+* how people express their moral values through language 
+* how these values might change over time and between different cultures
+* how we can evaluate and develop the current natural language processing (NLP) technology with respect to changes in people’s values. 
+
+I take a multidisciplinary approach using insight from moral psychology, cognitive science, and computational social science.
+
 
 Education
 ======
@@ -25,17 +33,18 @@ Research interests
 
 Publications
 ======
-* Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf)
+
+* Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).
 
 * Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of
 moral semantics through metaphorization. In Proceedings of the 44th Annual
-Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/3qv9h3j9)
+Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/3qv9h3j9), [code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff).
 
 * Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., Xu, Y. The emergence of moral foundations in child language development. In Proceedings of
-the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/668700sf)
+the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/668700sf), [code](https://osf.io/knu6s/?view_only=8fdd9354eb1340d5a0fa519d4c56f6e5).
 
 * Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for
-tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021. [pdf](https://aclanthology.org/2021.findings-emnlp.105.pdf)
+tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021. [pdf](https://aclanthology.org/2021.findings-emnlp.105.pdf), [code](https://github.com/AidaRamezani/moral-source-tracing).
 
 
 Awards
