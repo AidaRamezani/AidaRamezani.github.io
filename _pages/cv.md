@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - https://aidaramezani.github.io/files/ref_cv.pdf
+  - https://aidaramezani.github.io/files/cv.pdf
 ---
 
 {% include base_path %}
