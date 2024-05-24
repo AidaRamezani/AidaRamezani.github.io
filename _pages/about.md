@@ -33,6 +33,10 @@ Research interests
 
 Publications
 ======
+* Ramezani, A., and Xu, Y. Moral association graph: A cognitive model for moral inference. In Proceedings of the 46th Annual
+Meeting of the Cognitive Science Society. **Disciplinary Diversity & Integration Award**.
+
+* Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).
 
 * Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).
 
@@ -49,8 +53,9 @@ tracing textual sources of moral change. Findings of the Association for Computa
 
 Awards
 ======
-* Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2021 - 2023.
-* Iran’s National Elites Foundation: Recognized as elite member, 2016 – 2020.
+* Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2022-2023, 2024-2025
+* Schwartz Reisman Institute for Technology and Society Graduate Fellowship, 2021-2022.
+* Iran’s National Elites Foundation: Recognized as elite member, 2016-2020.
 
 
 
