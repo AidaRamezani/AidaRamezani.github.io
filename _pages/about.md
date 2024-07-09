@@ -45,7 +45,7 @@ moral semantics through metaphorization. In Proceedings of the 44th Annual
 Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/668700sf), [code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff).
 
 * Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., Xu, Y. The emergence of moral foundations in child language development. In Proceedings of
-the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/3qv9h3j9), [code](https://osf.io/knu6s/?view_only=8fdd9354eb1340d5a0fa519d4c56f6e5).
+the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/3qv9h3j9).
 
 * Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for
 tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021. [pdf](https://aclanthology.org/2021.findings-emnlp.105.pdf), [code](https://github.com/AidaRamezani/moral-source-tracing).
