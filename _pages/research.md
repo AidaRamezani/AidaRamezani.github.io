@@ -18,6 +18,13 @@ Understanding moral change is crucial for addressing societal challenges and pre
 
 <img src="https://aidaramezani.github.io/files/moral_change.png" alt="moral_change" width="450"/>
 
+You can use the interactive plot below to see how different concepts have gained moral relevance over time (This is part of an on-going project).
+
+```{r, results='asis', echo=FALSE}
+cat('
+<iframe src="https://moralization-c7b725dd0d64.herokuapp.com" width="100%" height="600px"></iframe>
+')
+```
 
 
 Language Models and Human Morality
