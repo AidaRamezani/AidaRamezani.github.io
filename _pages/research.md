@@ -8,13 +8,12 @@ redirect_from:
   - /research.html
 ---
 
-I am interested in developing computational tools to understand human morality through language usage analysis on a large scale. Specifically, my research explores the dynamics of moral change in society, examines how language models adapt to these changes, and investigates the evolution and acquisition of moral language. You can find descriptions of my research directions below.
+Through studying natural language, my research develops computational methodologies that model different dynamics in human morality. You can find descriptions of my research directions below.
 
 
-Moral Change in Society
+Computational inference of societal moral change
 ------
-Understanding moral change is crucial for addressing societal challenges and predicting the future dynamics in society. By leveraging large-scale computational tools, such as language models and graph neural networks, my research develops frameworks to uncover the temporal shifts in people's moral values and explores the underlying psychological factors that stimulate moral change.
-
+Understanding how morals change is crucial for addressing societal challenges and predicting the future dynamics in society. Working with large-scale machine learning algorithms, such as language models and graph neural networks, my research develops frameworks to study the temporal shifts in people's moral values, and what drives these shifts.
 
 <img src="https://aidaramezani.github.io/files/moral_change.png" alt="moral_change" width="450"/>
 
@@ -23,16 +22,16 @@ You can use the interactive plot below to see how different concepts have gained
 <iframe src="https://moralization-c7b725dd0d64.herokuapp.com" width="100%" height="600px"></iframe>
 
 
-Language Models and Human Morality
+Moral variations in large language models and NLP technologies
 ------
-Language models represent one of the most exciting advancements in AI and people have started to use them in many different ways. In recent applications, these models have shown the potential to retrieve and describe human moral values. However, the extent of this knowledge is limited, as language models often struggle to capture the nuances in moral values of different cultures and historical settings, leading to misrepresentation of marginalized communities and harmful biases in language generation. My research, thus, evaluates language models' performance in various moral scenarios and aligns them to provide a more accurate depiction of cultural moral values. 
+Language models are one of the most exciting advancements in AI and people have started to use them in many different ways. In recent applications, these models have shown the potential to retrieve and describe human moral values. However, the extent of this knowledge is limited, as language models often struggle to capture the nuances in moral values of different cultures and historical settings, leading to misrepresentation of marginalized communities and harmful biases in language generation. My research, thus, studies language models' performance in various moral scenarios and investigates how their parameters and inner architecture could enable or restrict certain moral and ethical behaviors. 
 
 <img src="https://aidaramezani.github.io/files/pew.png" alt="PEW" width="450"/>
 
 
-Evolution and Acquisition of Moral Language
+Evolution and acquisition of moral language
 ------
-I am interested in understanding the origins and the development of moral language in humans. By drawing insights from evolutionary studies, developmental psychology, and computational studies of semantic change, my research examines how humans have developed a moral lexicon over time and how infants begin to learn such lexicon to communicate their moral concerns. 
+I am interested in understanding the origins and the development of moral language in humans. By drawing insights from evolutionary studies, developmental psychology, and computational studies of semantic change, my research examines how humans have developed a moral lexicon over time and how children begin to learn such lexicon to communicate their moral concerns. 
 
 <img src="https://aidaramezani.github.io/files/moral_evolution.png" alt="evolution" width="450"/>
 
