@@ -7,41 +7,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m a 4th year Ph.D. student at the Department of  Computer Science, University of Toronto. I am in the [computational linguistics group](https://www.cs.toronto.edu/compling/) and work under the supervision of Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html).
+Hi! I’m a final year Ph.D. student at the Department of  Computer Science, University of Toronto. I am in the [computational linguistics group](https://www.cs.toronto.edu/compling/) and work under the supervision of Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html).
 
-My research focuses on language and morality. In particular, I study 
-* how people express their moral values through language 
-* how these values might change over time and between different cultures
-* how we can evaluate and develop the current natural language processing (NLP) technology with respect to changes in people’s values. 
+My research focuses on language and morality. By taking a multidisciplinary approach using natural language processing, machine learning, moral psychology, cognitive science, and computational social science, my research develops computational methodologies to identify societal changes in moral values from how people use language.
 
-I take a multidisciplinary approach using insight from moral psychology, cognitive science, and computational social science.
-
-
-Education
+Awards
 ======
-* Ph.D. in Computer Science, University of Toronto, September 2020 – Present
-* B.S. in Computer Engineering, Sharif University of Technology, September 2016 - July 2020
-
-
-Research interests
-======
-* Natural Language Processing
-* Computational Social Science
-* Cognitive Science
-* Computational Linguistics
+* Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2022-2025.
+* Cognitive Science Society Disciplinary Diversity & Integration Award, 2024.
+* Schwartz Reisman Institute for Technology and Society Graduate Fellowship, 2021-2022.
+* Iran’s National Elites Foundation: Recognized as elite member, 2016-2020.
 
 
 Publications
 ======
+* Ramezani, A., Liu, E., Lee, S., Xu, Y. Quantifying the emergence of moral foundational lexicon in child language development. PNAS Nexus (2024). [pdf](https://academic.oup.com/pnasnexus/article/3/8/pgae278/7727703?login=true), [code](https://osf.io/knu6s/).
+
+* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of the moral lexicon. Open Mind (to appear). 
+
 * Ramezani, A., and Xu, Y. Moral association graph: A cognitive model for moral inference. In Proceedings of the 46th Annual
-Meeting of the Cognitive Science Society. **Disciplinary Diversity & Integration Award**.
+Meeting of the Cognitive Science Society. **Disciplinary Diversity & Integration Award**. [pdf](https://escholarship.org/uc/item/8qj2b5k0). To appear in topiCS, 2024.
 
 * Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).
 
-* Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).
-
-* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of
-moral semantics through metaphorization. In Proceedings of the 44th Annual
+* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of moral semantics through metaphorization. In Proceedings of the 44th Annual
 Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/668700sf), [code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff).
 
 * Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., Xu, Y. The emergence of moral foundations in child language development. In Proceedings of
@@ -51,12 +40,11 @@ the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholar
 tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021. [pdf](https://aclanthology.org/2021.findings-emnlp.105.pdf), [code](https://github.com/AidaRamezani/moral-source-tracing).
 
 
-Awards
-======
-* Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2022-2023, 2024-2025
-* Schwartz Reisman Institute for Technology and Society Graduate Fellowship, 2021-2022.
-* Iran’s National Elites Foundation: Recognized as elite member, 2016-2020.
 
+Education
+======
+* Ph.D. in Computer Science, University of Toronto, September 2020 – Present
+* B.S. in Computer Engineering, Sharif University of Technology, September 2016 - July 2020
 
 
 <!-- A data-driven personal website
