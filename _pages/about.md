@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m a final year Ph.D. student at the Department of  Computer Science, University of Toronto. I am in the [computational linguistics group](https://www.cs.toronto.edu/compling/) and work under the supervision of Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html).
-
-My research focuses on language and morality. By taking a multidisciplinary approach using natural language processing, machine learning, moral psychology, cognitive science, and computational social science, my research develops computational methodologies to identify societal changes in moral values from how people use language.
+I’m a final year Ph.D. student at the Department of Computer Science, University of Toronto. My research explores the interplay of language, morality, and AI. I take a multidisciplinary approach drawing on natural language processing, machine learning, moral psychology, cognitive science, and computational social science. My current focus is on developing computational methodologies for understanding temporal and cultural variation in moral values informed by how people use language and AI tools.
 
 Awards
 ======
@@ -21,9 +19,9 @@ Awards
 
 Publications
 ======
-* Ramezani, A., Liu, E., Lee, S., Xu, Y. Quantifying the emergence of moral foundational lexicon in child language development. PNAS Nexus (2024). [pdf](https://academic.oup.com/pnasnexus/article/3/8/pgae278/7727703?login=true), [code](https://osf.io/knu6s/).
-
 * Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of the moral lexicon. Open Mind (to appear). 
+
+* Ramezani, A., Liu, E., Lee, S., Xu, Y. Quantifying the emergence of moral foundational lexicon in child language development. PNAS Nexus (2024). [pdf](https://academic.oup.com/pnasnexus/article/3/8/pgae278/7727703?login=true), [code](https://osf.io/knu6s/).
 
 * Ramezani, A., and Xu, Y. Moral association graph: A cognitive model for moral inference. In Proceedings of the 46th Annual
 Meeting of the Cognitive Science Society. **Disciplinary Diversity & Integration Award**. [pdf](https://escholarship.org/uc/item/8qj2b5k0). To appear in topiCS, 2024.
