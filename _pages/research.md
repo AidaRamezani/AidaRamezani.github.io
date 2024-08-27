@@ -17,11 +17,11 @@ Understanding how morals change is crucial for addressing societal challenges an
 
 <img src="https://aidaramezani.github.io/files/moral_change.png" alt="moral_change" width="450"/>
 
-You can use the interactive plot below to see how different concepts have gained moral relevance over time (This is part of an on-going project).
+<!-- You can use the interactive plot below to see how different concepts have gained moral relevance over time (This is part of an on-going project).
 
 <iframe src="https://moralization-c7b725dd0d64.herokuapp.com" width="100%" height="600px"></iframe>
 
-
+ -->
 Moral variations in large language models and NLP technologies
 ------
 Language models are one of the most exciting advancements in AI and people have started to use them in many different ways. In recent applications, these models have shown the potential to retrieve and describe human moral values. However, the extent of this knowledge is limited, as language models often struggle to capture the nuances in moral values of different cultures and historical settings, leading to misrepresentation of marginalized communities and harmful biases in language generation. My research, thus, studies language models' performance in various moral scenarios and investigates how their parameters and inner architecture could enable or restrict certain moral and ethical behaviors. 
