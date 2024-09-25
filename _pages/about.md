@@ -19,7 +19,7 @@ Awards
 
 Publications
 ======
-* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of the moral lexicon. Open Mind (to appear). 
+* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of the moral lexicon. Open Mind (2024). [pdf](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00164/124593/Evolution-of-the-Moral-Lexicon), [code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff)
 
 * Ramezani, A., Liu, E., Lee, S., Xu, Y. Quantifying the emergence of moral foundational lexicon in child language development. PNAS Nexus (2024). [pdf](https://academic.oup.com/pnasnexus/article/3/8/pgae278/7727703?login=true), [code](https://osf.io/knu6s/).
 
