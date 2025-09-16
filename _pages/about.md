@@ -7,36 +7,42 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a final year Ph.D. student at the Department of Computer Science, University of Toronto. My research explores the interplay of language, morality, and AI. I take a multidisciplinary approach drawing on natural language processing, machine learning, moral psychology, cognitive science, and computational social science. My current focus is on developing computational methodologies for understanding temporal and cultural variation in moral values informed by how people use language and AI tools.
+I am a final-year PhD student in Computer Science at the University of Toronto. My research investigates the interplay between language, morality, and artificial intelligence. My contributions to the field are two-fold:
+
+1) Studying moral change with AI. I develop theoretically grounded, natural language processing frameworks to examine how human morality evolves over time and across cultures. These methods enable scalable and systematic analyses of moral change that are difficult to achieve with traditional experimental approaches.
+
+
+2) Evaluating and improving AI morality. Drawing on moral theory and insights from large-scale studies, I critically assess how current AI systems respond to dynamic moral norms and propose solutions for building more reliable, morally-grounded systems.
+
 
 Awards
 ======
 * Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2022-2025.
-* Cognitive Science Society Disciplinary Diversity & Integration Award, 2024.
+* Cognitive Science Society Disciplinary Diversity & Integration Award, 2024, 2025.
 * Schwartz Reisman Institute for Technology and Society Graduate Fellowship, 2021-2022.
 * Iran’s National Elites Foundation: Recognized as elite member, 2016-2020.
 
 
 Publications
 ======
-* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of the moral lexicon. Open Mind (2024). [pdf](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00164/124593/Evolution-of-the-Moral-Lexicon), [code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff)
+* **Ramezani, A., & Xu, Y.** The discordance between embedded ethics and cultural inference in large language models. *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP).*
 
-* Ramezani, A., Liu, E., Lee, S., Xu, Y. Quantifying the emergence of moral foundational lexicon in child language development. PNAS Nexus (2024). [pdf](https://academic.oup.com/pnasnexus/article/3/8/pgae278/7727703?login=true), [code](https://osf.io/knu6s/).
+* **Zhu, W., Ramezani, A., & Xu, Y.** Visual moral inference and communication. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society.* **Disciplinary Diversity and Integration Award.** [PDF](https://arxiv.org/pdf/2504.11473) | [Code](https://github.com/CoderWarren/Visual-Moral-Stimuli)
 
-* Ramezani, A., and Xu, Y. Moral association graph: A cognitive model for moral inference. In Proceedings of the 46th Annual
-Meeting of the Cognitive Science Society. **Disciplinary Diversity & Integration Award**. [pdf](https://escholarship.org/uc/item/8qj2b5k0), [code](https://osf.io/pe6qt/wiki/home/?view_only=6781f237174a4eb7ae2b0e826fb2fb8c). To appear in topiCS, 2024.
+* **Ramezani, A., Stellar, J.E., Feinberg, M., & Xu, Y.** Evolution of the moral lexicon. *Open Mind* (2024). [PDF](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00164/124593/Evolution-of-the-Moral-Lexicon) | [Code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff)
 
-* Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61th Annual Meeting the Association for Computational Linguistics: ACL 2023. [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference).
+* **Ramezani, A., Liu, E., Lee, S., & Xu, Y.** Quantifying the emergence of moral foundational lexicon in child language development. *PNAS Nexus* (2024). [PDF](https://academic.oup.com/pnasnexus/article/3/8/pgae278/7727703?login=true) | [Code](https://osf.io/knu6s/)
 
-* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Evolution of moral semantics through metaphorization. In Proceedings of the 44th Annual
-Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/668700sf), [code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff).
+* **Ramezani, A., & Xu, Y.** Moral association graph: A cognitive model for moral inference. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society.* **Disciplinary Diversity & Integration Award.** [PDF](https://escholarship.org/uc/item/8qj2b5k0) | [Code](https://osf.io/pe6qt/wiki/home/?view_only=6781f237174a4eb7ae2b0e826fb2fb8c)  
+To appear in *Topics in Cognitive Science*, 2024.
 
-* Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., Xu, Y. The emergence of moral foundations in child language development. In Proceedings of
-the 44th Annual Meeting of the Cognitive Science Society. [pdf](https://escholarship.org/uc/item/3qv9h3j9).
+* **Ramezani, A., & Xu, Y.** Knowledge of cultural moral norms in large language models. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023).* [PDF](https://arxiv.org/pdf/2306.01857.pdf) | [Code](https://github.com/AidaRamezani/cultural_inference)
 
-* Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for
-tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021. [pdf](https://aclanthology.org/2021.findings-emnlp.105.pdf), [code](https://github.com/AidaRamezani/moral-source-tracing).
+* **Ramezani, A., Stellar, J.E., Feinberg, M., & Xu, Y.** Evolution of moral semantics through metaphorization. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society.* [PDF](https://escholarship.org/uc/item/668700sf) | [Code](https://osf.io/mnsjk/?view_only=02b9f8d85b414bc797d51d25ac6801ff)
 
+* **Ramezani, A., Liu, E., Ferreira Pinto Jr., R., Lee, S., & Xu, Y.** The emergence of moral foundations in child language development. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society.* [PDF](https://escholarship.org/uc/item/3qv9h3j9)
+
+* **Ramezani, A., Zhu, Z., Rudzicz, F., & Xu, Y.** An unsupervised framework for tracing textual sources of moral change. *Findings of the Association for Computational Linguistics: EMNLP 2021.* [PDF](https://aclanthology.org/2021.findings-emnlp.105.pdf) | [Code](https://github.com/AidaRamezani/moral-source-tracing)
 
 
 Education
