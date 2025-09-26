@@ -12,7 +12,7 @@ I am a final-year PhD student in Computer Science at the University of Toronto. 
 1) Studying moral change with AI. I develop theoretically grounded, natural language processing frameworks to examine how human morality evolves over time and across cultures. These methods enable scalable and systematic analyses of moral change that are difficult to achieve with traditional experimental approaches.
 
 
-2) Evaluating and improving AI morality. Drawing on moral theory and insights from large-scale studies, I critically assess how current AI systems respond to dynamic moral norms and propose solutions for building more reliable, morally-grounded systems.
+2) Evaluating and improving AI morality. Drawing on established theories of human morality and insights from large-scale studies, I critically assess how current AI systems respond to dynamic moral norms and propose solutions for building more reliable, morally-grounded systems.
 
 
 Awards
