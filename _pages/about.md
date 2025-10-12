@@ -33,7 +33,7 @@ Publications
 
 * Ramezani, A., Liu, E., Lee, S., and Xu, Y. Quantifying the emergence of moral foundational lexicon in child language development. PNAS Nexus (2024). [pdf](https://academic.oup.com/pnasnexus/article/3/8/pgae278/7727703?login=true), [code](https://osf.io/knu6s/)
 
-* Ramezani, A., and Xu, Y. Moral association graph: A cognitive model for moral inference. In Proceedings of the 46th Annual Meeting of the Cognitive Science Society. **Disciplinary Diversity and Integration Award.** [pdf](https://escholarship.org/uc/item/8qj2b5k0), [code](https://osf.io/pe6qt/wiki/home/?view_only=6781f237174a4eb7ae2b0e826fb2fb8c). To appear in *Topics in Cognitive Science*, 2024.
+* Ramezani, A., and Xu, Y. Moral association graph: A cognitive model for automated moral inference. Topics in Cognitive Science. **Disciplinary Diversity and Integration Award.** [pdf](https://onlinelibrary.wiley.com/doi/10.1111/tops.12774), [code](https://osf.io/pe6qt/wiki/home/?view_only=6781f237174a4eb7ae2b0e826fb2fb8c). Shorter version appeared in *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*
 
 * Ramezani, A., and Xu, Y. Knowledge of cultural moral norms in large language models. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). [pdf](https://arxiv.org/pdf/2306.01857.pdf), [code](https://github.com/AidaRamezani/cultural_inference)
 
