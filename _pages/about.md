@@ -25,7 +25,7 @@ Awards
 
 Publications
 ======
-* Ramezani, A., and Xu, Y. The discordance between embedded ethics and cultural inference in large language models. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+* Ramezani, A., and Xu, Y. The discordance between embedded ethics and cultural inference in large language models. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) [pdf](https://aclanthology.org/2025.emnlp-main.743.pdf), [code](https://github.com/AidaRamezani/ethics_culture).
 
 * Zhu, W., Ramezani, A., and Xu, Y. Visual moral inference and communication. In Proceedings of the 47th Annual Meeting of the Cognitive Science Society. **Disciplinary Diversity and Integration Award.** [pdf](https://arxiv.org/pdf/2504.11473), [code](https://github.com/CoderWarren/Visual-Moral-Stimuli)
 
