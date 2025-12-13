@@ -7,35 +7,13 @@ redirect_from:
   - /research
   - /research.html
 ---
-
-Through studying natural language, my research develops computational methodologies that model different dynamics in human morality. You can find descriptions of my research directions below.
-
-
-Computational inference of societal moral change
-------
-Understanding how morals change is crucial for addressing societal challenges and predicting the future dynamics in society. Working with large-scale machine learning algorithms, such as language models and graph neural networks, my research develops frameworks to study the temporal shifts in people's moral values, and what drives these shifts.
-
-<img src="https://aidaramezani.github.io/files/moral_change.png" alt="moral_change" width="450"/>
-
-<!-- You can use the interactive plot below to see how different concepts have gained moral relevance over time (This is part of an on-going project).
-
-<iframe src="https://moralization-c7b725dd0d64.herokuapp.com" width="100%" height="600px"></iframe>
-
- -->
-Moral variations in large language models and NLP technologies
-------
-Language models are one of the most exciting advancements in AI and people have started to use them in many different ways. In recent applications, these models have shown the potential to retrieve and describe human moral values. However, the extent of this knowledge is limited, as language models often struggle to capture the nuances in moral values of different cultures and historical settings, leading to misrepresentation of marginalized communities and harmful biases in language generation. My research, thus, studies language models' performance in various moral scenarios and investigates how their parameters and inner architecture could enable or restrict certain moral and ethical behaviors. 
-
-<img src="https://aidaramezani.github.io/files/pew.png" alt="PEW" width="450"/>
+I study how humans and machines use language to express morality. Morality is a core component of human cognition and is believed to have co-evolved with language in its sophisticated modern form. Like language, morality is dynamic: moral views shift over time and vary across individuals and cultures. But these changes are often more subtle and harder to detect than familiar forms of linguistic change. My work asks how moral dynamics can be identified automatically and at scale, and how language technologies such as LLMs can be designed to adapt to evolving natural of human morality.
 
 
-Evolution and acquisition of moral language
-------
-I am interested in understanding the origins and the development of moral language in humans. By drawing insights from evolutionary studies, developmental psychology, and computational studies of semantic change, my research examines how humans have developed a moral lexicon over time and how children begin to learn such lexicon to communicate their moral concerns. 
+1) How do morals vary over human history and across cultures? Morality is not stationary but changes over time and from culture to culture. My research characterizes this variation through developing psychologically inspired computational frameworks. For example, my work introduces the Moral Association Graph (MAG), a cognitive model based on human semantic memory that reflects people's intuitive moral associations (e.g., smoking->disgusting,unhealthy,addiction). My recent work also shows that MAG can be extended to historical time points using graph neural networks and large-scale diachronic corpora that date back hundreds of years. I am also interested in extending this computational framework to model cultural universals and variation, answering questions such as: Why do some cultures moralize practices like smoking or divorce, while other cultures do not, and can we predict such cultural moral variation by studying people's mental representations of word meanings?
 
-<img src="https://aidaramezani.github.io/files/moral_evolution.png" alt="evolution" width="450"/>
 
-<img src="https://aidaramezani.github.io/files/moral_emergence.png" alt="emergence" width="700"/>
+2) How do AI systems "perceive" human morality and its variation? My research builds on discussions on the development of ethical AI. Particularly, my work raises critical questions regarding cultural moral variation and how biases in AI  and other computational methodologies prevent us from understanding human morality at global scale. My work in this domain has pioneered the use of global ethical surveys for LLM cultural evaluations, and finds that AI systems exhibit a bias in capturing a more accurate representation of moral norms in Western cultures and wealthy nations, while their representation of non-Western moral standards contains harmful stereotyping. My recent work suggests that this lack of accurate cultural representation in LLMs is deeply intertwined with how AI systems capture and interact with ethics and human ethical standards. Extending this line of work, I am interested in studying how morality grows in AI systems in comparison to children's moral development over time, and exploring AI moral perception through multimodal input (like speech, vision, and text).
 
 
 

@@ -7,12 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD student in the Artificial Intelligence (AI) Group of the Department of Computer Science at the University of Toronto. I study the interplay of language, morality, and AI. I take a highly interdisciplinary approach to explore two related lines of inquiry:
-
-1) How do morals vary over human history and across cultures? Morality is not stationary but changes over time and from culture to culture. My research characterizes this variation through developing psychologically inspired computational frameworks. For example, my work introduces the Moral Association Graph (MAG), a cognitive model based on human semantic memory that reflects people's intuitive moral associations (e.g., smoking->disgusting,unhealthy,addiction). My recent work also shows that MAG can be extended to historical time points using graph neural networks and large-scale diachronic corpora that date back hundreds of years. I am also interested in extending this computational framework to model cultural universals and variation, answering questions such as: Why do some cultures moralize practices like smoking or divorce, while other cultures do not, and can we predict such cultural moral variation by studying people's mental representations of word meanings?
-
-
-2) How do AI systems "perceive" human morality and its variation? My research builds on discussions on the development of ethical AI. Particularly, my work raises critical questions regarding cultural moral variation and how biases in AI  and other computational methodologies prevent us from understanding human morality at global scale. My work in this domain has pioneered the use of global ethical surveys for LLM cultural evaluations, and finds that AI systems exhibit a bias in capturing a more accurate representation of moral norms in Western cultures and wealthy nations, while their representation of non-Western moral standards contains harmful stereotyping. My recent work suggests that this lack of accurate cultural representation in LLMs is deeply intertwined with how AI systems capture and interact with ethics and human ethical standards. Extending this line of work, I am interested in studying how morality grows in AI systems in comparison to children's moral development over time, and exploring AI moral perception through multimodal input (like speech, vision, and text).
+I am a PhD graduate from the Artificial Intelligence (AI) Group of the Department of Computer Science at the University of Toronto. I study the interplay of language, morality, and AI. You can find an overview of my research [here](https://aidaramezani.github.io/research). 
 
 
 Awards
@@ -25,6 +20,8 @@ Awards
 
 Publications
 ======
+* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Historical reconstruction of human moralization with word association and text corproa. Nature Communications (in press). 
+
 * Ramezani, A., and Xu, Y. The discordance between embedded ethics and cultural inference in large language models. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) [pdf](https://aclanthology.org/2025.emnlp-main.743.pdf), [code](https://github.com/AidaRamezani/ethics_culture).
 
 * Zhu, W., Ramezani, A., and Xu, Y. Visual moral inference and communication. In Proceedings of the 47th Annual Meeting of the Cognitive Science Society. **Disciplinary Diversity and Integration Award.** [pdf](https://arxiv.org/pdf/2504.11473), [code](https://github.com/CoderWarren/Visual-Moral-Stimuli)
