@@ -45,8 +45,8 @@ Publications
 
 Education
 ======
-* Ph.D. in Computer Science, University of Toronto, September 2020 – December 2025
-* B.S. in Computer Engineering, Sharif University of Technology, September 2016 - July 2020
+* PhD in Computer Science, University of Toronto, September 2020 – December 2025
+* BSc in Computer Engineering, Sharif University of Technology, September 2016 - July 2020
 
 Work Experience
 ======
