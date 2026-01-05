@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD graduate from the Artificial Intelligence (AI) Group of the Department of Computer Science at the University of Toronto. I study the interplay of language, morality, and AI. You can find an overview of my research [here](https://aidaramezani.github.io/research). 
+I am a postdoctoral fellow at the Data Science Institute (DSI) at the University of Toronto, jointly supervised by Professor [Yang Xu](http://www.cs.toronto.edu/~yangxu/index.html) (Department of Computer Science) and Professor [Jennifer Stellar](https://www.utm.utoronto.ca/psychology/people/jennifer-stellar) (Department of Psychological & Brain Sciences). I received my PhD from the Artificial Intelligence (AI) Group in the Department of Computer Science at the University of Toronto.
 
+My research examines the interplay between language, morality, and AI. An overview of my work is available [here](https://aidaramezani.github.io/research).
 
 Awards
 ======
+* DSI Postdoctoral fellowship, 2025
 * Schwartz Reisman Institute for Technology and Society Graduate Affiliate, 2022-2025.
 * Cognitive Science Society Disciplinary Diversity & Integration Award, 2024, 2025.
 * Schwartz Reisman Institute for Technology and Society Graduate Fellowship, 2021-2022.
