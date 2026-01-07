@@ -22,7 +22,7 @@ Awards
 
 Publications
 ======
-* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Historical reconstruction of human moralization with word association and text corproa. Nature Communications (in press). 
+* Ramezani, A., Stellar, J.E., Feinberg, M., and Xu, Y. Historical reconstruction of human moralization with word association and text corproa. Nature Communications (early access) [pdf](https://www.nature.com/articles/s41467-025-67891-2), [code](https://doi.org/10.5281/zenodo.17692655), [api](https://warz.shinyapps.io/MoralityVisualizer).
 
 * Ramezani, A., and Xu, Y. The discordance between embedded ethics and cultural inference in large language models. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) [pdf](https://aclanthology.org/2025.emnlp-main.743.pdf), [code](https://github.com/AidaRamezani/ethics_culture).
 
